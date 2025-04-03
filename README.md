@@ -34,5 +34,5 @@ An AI-powered surveillance blimp using helium for lift and ESP32 with ESP-CAM fo
 ## Team Members  
 - **Aomsin Nimsombun**  
 - **Kaoklong Panitpongpun**  
-- **Quinn Kalheil**  
+- **Quinn Kalheim**  
 - **Leo Xu**  
